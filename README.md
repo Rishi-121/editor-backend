@@ -3,8 +3,8 @@
 ## About Project
   Welcome to the backend repository of `online compiler`. This project aims at creating a modern open source compiler. Currently, the project has support for three programming languages ( C++, Java, Python ) and relies on external API at backend to get result of code. 
   
-  - [Frontend Repository](https://github.com/NegiAkash890/editor-frontend/tree/main)
-  - [Backend Repository](https://github.com/NegiAkash890/editor-backend)
+  - [Frontend Repository](https://github.com/Rishi-121/editor-frontend/tree/main)
+  - [Backend Repository](https://github.com/Rishi-121/editor-backend)
   
 ## Tech Stack 
    
